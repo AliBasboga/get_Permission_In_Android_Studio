@@ -63,5 +63,4 @@
 <img alt="Kotlin" src="./img/ekrn.png">
 <br>
 <img alt="Kotlin" src="./img/ekrn1.png">
-<img alt="Kotlin" src="./img/EKRN3.png">
 </div></div></div></div>
