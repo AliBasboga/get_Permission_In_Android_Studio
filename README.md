@@ -60,4 +60,8 @@
 <p><strong><font style="vertical-align: inherit;"></font><a href="https://kotlinlang.org/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gradle</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> usage </font><font style="vertical-align: inherit;">:</font></font></strong></p>
 <pre><code class="language-sh">gradle test
 </code></pre>
+<img alt="Kotlin" src="./img/ekrn.png">
+<br>
+<img alt="Kotlin" src="./img/ekrn1.png">
+<img alt="Kotlin" src="./img/EKRN3.png">
 </div></div></div></div>
